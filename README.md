@@ -3,13 +3,15 @@
 
 - 🌱 I’m currently learning **React**
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 - 👨‍💻 All of my projects are available at [https://github.com/muratcelikkk](https://github.com/muratcelikkk)
 
 - 📫 How to reach me **murat.tc2014@gmail.com**
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
