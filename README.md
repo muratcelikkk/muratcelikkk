@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-14930
-Fork on GitHub
-4014
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi 👋, I'm Murat ÇELİK</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratcelikkk&label=Profile%20views&color=0e75b6&style=flat" alt="muratcelikkk" /> </p>
 
